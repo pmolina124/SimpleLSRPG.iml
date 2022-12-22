@@ -1,0 +1,23 @@
+[
+ {
+  "name": "Amrod",
+  "player": "SonsOfFeanor",
+  "level": "0",
+  "xp": 229,
+  "body": 2,
+  "mind": 0,
+  "spirit": 0,
+  "CharacterClass": "Adventurer"
+ },
+ {
+  "name": "Caranthir",
+  "player": "SonsOfFeanor",
+  "level": "0",
+  "xp": 306,
+  "body": 2,
+  "mind": 0,
+  "spirit": 1,
+  "CharacterClass": "Adventurer"
+ }
+]
+
